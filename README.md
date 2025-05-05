@@ -1,2 +1,3 @@
-# js-project
-Every year we go to Florida. We like to go to the beach. My favorite beach is called Emerson Beach. Its is very long 
+# Effective JavaScript
+## Accustoming yourself to JavaScript
+JavaScript was designed to feel familiar. With syntax reminiscent of Java and construct common to many scripting languages (such as functions, arrays, dictionaries, and regular expressions)
